@@ -41,6 +41,16 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DotNetSpain2015.Sam.SpecFlowLab.Api\DotNetSpain2015.Sam.SpecFlowLab.Api.csproj">
+      <Project>{e957e3f3-7688-41f5-897d-f0b332e8c339}</Project>
+      <Name>DotNetSpain2015.Sam.SpecFlowLab.Api</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DotNetSpain2015.Sam.SpecFlowLab.Todo\DotNetSpain2015.Sam.SpecFlowLab.Todo.csproj">
+      <Project>{6f4c547c-a11c-4e92-a2c4-15bd32a6c62e}</Project>
+      <Name>DotNetSpain2015.Sam.SpecFlowLab.Todo</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
