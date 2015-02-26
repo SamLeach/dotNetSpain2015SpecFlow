@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetSpain2015.Sam.SpecFlowLab.Intro", "DotNetSpain2015.Sam.SpecFlowLab.Intro\DotNetSpain2015.Sam.SpecFlowLab.Intro.csproj", "{D75C9253-99AD-4246-95F7-20E34DDA2248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetSpain2015.Sam.SpecFlowLab.Intro.Specs", "DotNetSpain2015.Sam.SpecFlowLab.Intro.Specs\DotNetSpain2015.Sam.SpecFlowLab.Intro.Specs.csproj", "{0EBD2A39-546B-46F6-80C4-6CB90B853B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetSpain2015.Sam.SpecFlowLab.Todo", "DotNetSpain2015.Sam.SpecFlowLab.Todo\DotNetSpain2015.Sam.SpecFlowLab.Todo.csproj", "{6F4C547C-A11C-4E92-A2C4-15BD32A6C62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetSpain2015.Sam.SpecFlowLab.Todo.Specs", "DotNetSpain2015.Sam.SpecFlowLab.Todo.Specs\DotNetSpain2015.Sam.SpecFlowLab.Todo.Specs.csproj", "{BDC63AC6-9649-4F7D-9ECA-67FBC75A0896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetSpain2015.Sam.SpecFlowLab.Api", "DotNetSpain2015.Sam.SpecFlowLab.Api\DotNetSpain2015.Sam.SpecFlowLab.Api.csproj", "{E957E3F3-7688-41F5-897D-F0B332E8C339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetSpain2015.Sam.SpecFlowLab.Api.Specs", "DotNetSpain2015.Sam.SpecFlowLab.Api.Specs\DotNetSpain2015.Sam.SpecFlowLab.Api.Specs.csproj", "{D4A1B9DF-5F9D-4602-A55B-EF134469D4D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D75C9253-99AD-4246-95F7-20E34DDA2248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75C9253-99AD-4246-95F7-20E34DDA2248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75C9253-99AD-4246-95F7-20E34DDA2248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75C9253-99AD-4246-95F7-20E34DDA2248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EBD2A39-546B-46F6-80C4-6CB90B853B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EBD2A39-546B-46F6-80C4-6CB90B853B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EBD2A39-546B-46F6-80C4-6CB90B853B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EBD2A39-546B-46F6-80C4-6CB90B853B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F4C547C-A11C-4E92-A2C4-15BD32A6C62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4C547C-A11C-4E92-A2C4-15BD32A6C62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4C547C-A11C-4E92-A2C4-15BD32A6C62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4C547C-A11C-4E92-A2C4-15BD32A6C62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC63AC6-9649-4F7D-9ECA-67FBC75A0896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC63AC6-9649-4F7D-9ECA-67FBC75A0896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC63AC6-9649-4F7D-9ECA-67FBC75A0896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC63AC6-9649-4F7D-9ECA-67FBC75A0896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E957E3F3-7688-41F5-897D-F0B332E8C339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E957E3F3-7688-41F5-897D-F0B332E8C339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E957E3F3-7688-41F5-897D-F0B332E8C339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E957E3F3-7688-41F5-897D-F0B332E8C339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A1B9DF-5F9D-4602-A55B-EF134469D4D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A1B9DF-5F9D-4602-A55B-EF134469D4D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A1B9DF-5F9D-4602-A55B-EF134469D4D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A1B9DF-5F9D-4602-A55B-EF134469D4D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
